@@ -2,7 +2,7 @@
 
 Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
 
-# Nome do projeto
+# CHECKPOINT 1 IOT/IA
 
 **nome dos alunos:** André Menezes, Kaike de Santana
 
