@@ -4,15 +4,15 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 # Nome do projeto
 
-**nome dos alunos:** 
+**nome dos alunos:** André Menezes, Kaike de Santana
 
-**Turma:**
+**Turma:** 2TDSA
 
-**Ano:**
+**Ano:** 2022
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Projeto de entrega de IA, checkpoint 1
 
 ## Diagrama do projeto
 
@@ -23,7 +23,7 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+Só pegar o arquivo e usar
 
 * Pode ser utilizado marcadores
 * Para ajudar na formatação
@@ -45,8 +45,6 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 ## Link de vídeo demonstração
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
 
 ### Referências 
