@@ -16,8 +16,6 @@ Projeto de entrega de IA, checkpoint 1
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
 <img src="/imagem.jpg" width="550">
 
 
@@ -40,11 +38,6 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
     git clone https://github.com/arnaldojr/templatenac
     cd templatenac
     ls
-
-
-## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
 
 
 ### Referências 
